@@ -1,3 +1,2 @@
-### Hello There
-![Alt Text](resources/Avc.gif)
+![Alt Text](resources/Aavt1c.gif)
 
