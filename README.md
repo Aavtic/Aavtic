@@ -1,2 +1,1 @@
-![Alt Text](resources/Aavt1c.gif)
-
+![Alt Text](resources/sEFY3Up-.jpg)
