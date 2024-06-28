@@ -1,1 +1,1 @@
-![Alt Text](resources/golden-pega.jpg)
+![Alt Text](resources/golden-pega1.jpg)
