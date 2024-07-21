@@ -1,9 +1,8 @@
-<h3 style="color:powderblue;font-family=verdana;" align="center">
+<div align="center">
+  <img src="resources/hellofriend.svg" alt="Flickering Light Text">
+</div>
 
-![Hello Friend](resources/hellofriend.svg)
-
-<h3>
-<h4 style="color:powderblue;" align="center">Welcome to my profile<h4>
+<h4 style="color:powderblue;" align="">Welcome to my profile<h4>
 
 ---
 <h2 style="color:powderblue;">whoami</h2>
@@ -12,7 +11,12 @@
 - Wannabe hacker
 - creates network and low level softwares
 
+---
 
+<h2 style="color:powderblue;">Connect with me</h2>
+
+<img src="resources/twitter-square.svg" width="25px;"/> [:whitespace:](https://twitter.com/Aavtic)
+<img src="resources/linkedin.svg" width="30px;"/> [:whitespace:](https://www.linkedin.com/in/aadish-m-66052b2a5)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
