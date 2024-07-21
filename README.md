@@ -3,7 +3,7 @@
 
 
 ### &nbsp; Hello There!         
-&nbsp; I am **Aadish M**, a Rust and Python Enthusiast.
+&nbsp; I am **Aadish M**, a Programming Enthusiast.
 <br>
 </br>
  In search of cool new challenges. I love writing and breaking code.
