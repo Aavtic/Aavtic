@@ -15,8 +15,8 @@
 
 <h2 style="color:powderblue;">Connect with me</h2>
 
-<img src="resources/twitter-square.svg" width="25px;"/> [:whitespace:](https://twitter.com/Aavtic)
-<img src="resources/linkedin.svg" width="30px;"/> [:whitespace:](https://www.linkedin.com/in/aadish-m-66052b2a5)
+<img src="resources/twitter-square.svg" width="25px;"/> [Twitter](https://twitter.com/Aavtic)
+<img src="resources/linkedin.svg" width="30px;"/> [LinkedIn](https://www.linkedin.com/in/aadish-m-66052b2a5)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
