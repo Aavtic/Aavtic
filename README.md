@@ -1,12 +1,16 @@
-<div align="left">
-  <img src="resources/hellofriend.svg" alt="Flickering Light Text">
-</div>
+<p align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="resources/hello_friend_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="resources/hellofriend.svg">
+      <img alt="Flickering" src="resources/hellofriend.svg" width="600" height="200" style="max-width: 100%;">
+    </picture>
+</p>
 
 <p align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="resources/pegasus.svg">
       <source media="(prefers-color-scheme: light)" srcset="resources/pegasus_light.svg">
-      <img alt="Pegasus" src="resources/pegasus_light.svg" width="100" height="70" style="max-width: 100%;">
+      <img alt="Pegasus" src="resources/pegasus_light.svg" width="100" height="100" style="max-width: 100%;">
     </picture>
 </p>
 

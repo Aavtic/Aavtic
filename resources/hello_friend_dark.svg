@@ -1,9 +1,9 @@
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Define the gradient -->
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="80%">
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="90%">
       <stop offset="0%" stop-color="red" />
-      <stop offset="100%" stop-color="black" />
+      <stop offset="100%" stop-color="red" />
     </linearGradient>
   </defs>
 
