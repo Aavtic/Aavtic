@@ -2,7 +2,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="resources/hello_friend_dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="resources/hellofriend.svg">
-      <img alt="Flickering" src="resources/hellofriend.svg" width="600" height="200" style="max-width: 100%;">
+      <img alt="Flickering" src="resources/hellofriend.svg" width="900" height="200" style="max-width: 100%;">
     </picture>
 </p>
 
