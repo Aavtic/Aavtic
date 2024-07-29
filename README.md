@@ -20,5 +20,3 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 
 ---
 
-
-I am actively working on [**ttype**](https://github.com/aavtic/ttype) , a terminal typing tool written in rust.
