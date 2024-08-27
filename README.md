@@ -16,7 +16,7 @@
 
 I'm **Aadish**, A passionate low level learner and a wannabe security researcher. I love networks. Interested in building any opensource software
 
-[![Filecrypt Downloads](https://img.shields.io/github/downloads/Aavtic/Filecrypt/total)](https://github.com/aavtic/filecrypt) [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAavtic)](https://twitter.com/Aavtic)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Aavtic??label=Contact)
 
 ---
 
