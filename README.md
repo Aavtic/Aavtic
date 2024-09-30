@@ -20,3 +20,6 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 
 ---
 
+### Currently working on 
+[coapi.rs](https://github.com/aavtic/coapi.rs) A rust backend API program for retrieving code output using docker,  Frontend written in yew [yew-online-compiler](https://github.com/aavtic/yew-online-code-editor)
+
