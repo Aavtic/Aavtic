@@ -20,5 +20,3 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 
 ---
 
-### Currently working on 
-[coapi.rs](https://github.com/aavtic/coapi.rs) A leetcode-like webapp written in Rust.
