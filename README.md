@@ -16,7 +16,5 @@
 
 I'm **Aadish**, A passionate low level learner and a wannabe security researcher. I love networks. Interested in building any opensource software
 
-[![Twitter](https://img.shields.io/twitter/follow/Aavtic??label=Contact)](https://twitter.com/Aavtic)
-
 ---
 
