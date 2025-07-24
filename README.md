@@ -33,8 +33,9 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 - **Email:** [aadishmkerala@gmail.com](mailto:aadishmkerala@gmail.com)
 - **Website:** [aavtic.dev](https://aavtic.dev)
 - **LinkedIn:** [aadish-m](https://www.linkedin.com/in/aadish-m)
-- **GitLab:** [aavtic](https://gitlab.com/aavtic)
+- **GitLab:** [Aavtic](https://gitlab.com/aavtic)
 - **Bluesky:** [aavtic.bsky.social](https://aavtic.bsky.social/)
+- **X:** [Aavtic](https://x.com/aavtic)
 
 ---
 
