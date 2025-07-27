@@ -28,6 +28,10 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 - [**coapi.rs**](https://github.com/Aavtic/coapi.rs): Web app to practice algorithmic logic (like LeetCode)
 - [**gitcloner**](https://github.com/Aavtic/gitcloner): Python module to clone GitHub repositories, including private repos & branches
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aavtic&layout=compact&langs_count=10&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=aavtic&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues)
+
 ## 📫 Contact
 
 - **Email:** [aadishmkerala@gmail.com](mailto:aadishmkerala@gmail.com)
@@ -42,4 +46,3 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
-
