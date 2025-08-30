@@ -26,6 +26,8 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 
 - [**ass_parser**](https://github.com/Aavtic/ass_parser): Parser for Advanced SubStation Alpha (.ass) subtitle files
 - [**coapi.rs**](https://github.com/Aavtic/coapi.rs): Web app to practice algorithmic logic (like LeetCode)
+- [**broler**](https://github.com/Aavtic/broler): A Web crawler to find broken links *(recursively)* in a website
+- [**fops**](https://github.com/Aavtic/fops): A modern remake of **coapi.rs** with more features! 
 - [**gitcloner**](https://github.com/Aavtic/gitcloner): Python module to clone GitHub repositories, including private repos & branches
 
 
@@ -46,4 +48,5 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
+
 
