@@ -14,7 +14,7 @@
 
 ### whoami
 
-I'm **Aadish**, A passionate low level learner and a wannabe security researcher. I love networks. Interested in building any opensource software
+I'm **Aadish**, A passionate low level learner and a wannabe software developer. I love networks. Interested in building any opensource software
 
 ---
 ## 🛠️ Top Skills
@@ -48,5 +48,6 @@ I'm **Aadish**, A passionate low level learner and a wannabe security researcher
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
+
 
 
