@@ -21,9 +21,9 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 
 - **Languages:** Python, Rust, C, Go  
 - **Web:** HTML, CSS, JavaScript, Next.js, React, Node.js
-- **Event Streaming** Kafka
-- **Caching** Redis
-- **Other** Docker, Linux
+- **Event Streaming:** Kafka
+- **Caching:** Redis
+- **Other:** Docker, Linux
 
 ## Featured Projects
 
@@ -51,6 +51,7 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
+
 
 
 
