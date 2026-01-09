@@ -17,12 +17,15 @@
 I'm **Aadish**, A passionate low level learner and a wannabe software developer. I love networks. Interested in building any opensource software
 
 ---
-## 🛠️ Top Skills
+## Skills
 
 - **Languages:** Python, Rust, C, Go  
 - **Web:** HTML, CSS, JavaScript, Next.js, React, Node.js
+- **Event Streaming** Kafka
+- **Caching** Redis
+- **Other** Docker, Linux
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [**ass_parser**](https://github.com/Aavtic/ass_parser): Parser for Advanced SubStation Alpha (.ass) subtitle files
 - [**coapi.rs**](https://github.com/Aavtic/coapi.rs): Web app to practice algorithmic logic (like LeetCode)
@@ -48,6 +51,7 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
+
 
 
 
