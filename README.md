@@ -27,6 +27,7 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 
 ## Featured Projects
 
+- [**pine**](https://github.com/Aavtic/pine): A Statically typed, compiled programming language which features simplicity and near-native speed with AOT compilation.
 - [**ass_parser**](https://github.com/Aavtic/ass_parser): Parser for Advanced SubStation Alpha (.ass) subtitle files
 - [**coapi.rs**](https://github.com/Aavtic/coapi.rs): Web app to practice algorithmic logic (like LeetCode)
 - [**broler**](https://github.com/Aavtic/broler): A Web crawler to find broken links *(recursively)* in a website
@@ -51,6 +52,7 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 <div align="center">
   <sub>Building with curiosity &amp; care. Let’s connect!</sub>
 </div>
+
 
 
 
