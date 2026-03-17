@@ -35,7 +35,6 @@ I'm **Aadish**, A passionate low level learner and a wannabe software developer.
 - [**gitcloner**](https://github.com/Aavtic/gitcloner): Python module to clone GitHub repositories, including private repos & branches
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aavtic&layout=compact&langs_count=10&theme=transparent)
 ![Aavtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aavtic&show_icons=true&theme=transparent)
 
 ## 📫 Contact
